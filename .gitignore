@@ -1,0 +1,11 @@
+*.Rproj.user
+*.Rproj
+/.quarto/
+
+README_files/
+README.html
+# For any html file that is not in doc/
+#*.html
+
+.Rproj.user
+.Rhistory
