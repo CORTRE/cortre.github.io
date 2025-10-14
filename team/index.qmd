@@ -13,6 +13,8 @@ The CORTRE steering committee is composed of the following members:
 - Merle-Marie Pittelkow -- Charite, Berlin, Germany
 - Priya Silverstein -- University of Coimbra, Coimbra, Portugal
 
+The steering committee's responsibilities include taking project administrative decisions, defining timelines and set deadlines, distribute tasks to working groups, coordinate communication between working groups and serve as a contact point for external inquiries.
+
 ### CORTRE working group members
 In addition to the steering committee, the following researchers are actively contributing to the development of the CORTRE reporting guideline:  
 
