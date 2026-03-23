@@ -5,7 +5,7 @@ project:
 website:
   title: "CORTRE"  
   page-navigation: true
-  # favicon: cortre_logo.png   
+  favicon: img/logo.png   
 
   page-footer:
     border: true
@@ -16,9 +16,9 @@ website:
     right: This is a website under the [CC BY international license 4.0](https://creativecommons.org/licenses/by/4.0/)                    
 
   sidebar:   
-    title: "CORTRE"
+    #title: "CORTRE"
     search: false
-    # logo: cortre_logo.png
+    logo: img/logo.png
     collapse-level: 2
     contents: 
       - index.qmd
