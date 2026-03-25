@@ -1,0 +1,156 @@
+---
+title: "CORTRE initial item list"
+pagetitle: "CORTRE item list (v1)"
+format:
+  html:
+    toc: false
+date-modified: last-modified
+---
+
+::: {.callout-important}
+## First version — Delphi consensus
+
+This page presents **version 1** of the **initial candidate item list** for the CORTRE reporting guideline. It is intended as the starting point for a **Delphi exercise**: we seek **consensus** among stakeholders on which items to retain, merge, split, or drop, and how they should be worded. **This is not a final guideline**; content and numbering may change.
+:::
+
+## Terminology
+
+**Reproducibility effort.** With *reproducibility effort* we refer to a project that investigates an aspect of reproducibility. In the literature, different aspects of reproducibility are referred to with different terms, such as *replicability*, *robustness*, or *generalisability*. This reporting guideline can be applied to efforts investigating any one of those aspects of reproducibility. A reproducibility effort typically consists of multiple individual reproducibility studies. In the following, we use the term *reproduction* to refer to any kind of such individual reproducibility study. However, this does not imply that this terminology should be adopted for reporting your *reproducibility effort*.
+
+**Original study.** We use the term *original study* broadly to refer to that which is being reproduced, e.g. *original publications, experiments, studies, results, claims, hypotheses,* or *outcomes*. If the difference between these latter terms is relevant for your *reproducibility effort*, indicate this accordingly in each reporting item.
+
+## Purpose and type of the effort
+
+1. What was the purpose of your *reproducibility effort*?
+
+2. What is the general design / architecture of your reproducibility effort? If applicable, include a flowchart.
+
+3. Did you reanalyze existing data from original studies or did your *reproductions* collect their own data?
+
+4. Did you aim to follow the experimental and/or analysis methods of the original studies as closely as possible, or were variations deliberately incorporated?
+
+5. Did you use a conceptual or terminological framework for terms such as “reproduction” or “replication”? If so, indicate which framework you use, and how you situate your *reproducibility effort* within this framework.
+
+6. In what way did you label your study as a *reproducibility effort* in the title of your publication?
+
+## Selection of original studies
+
+7. How did you select which original study or studies to reproduce? This includes how you selected:
+
+    a) one or multiple original publications,
+
+    b) one or multiple experiments, studies, hypotheses, outcomes, or results within the original publication(s) (if applicable)
+
+8. How many original studies did you plan or attempt to *reproduce*, and how was that number determined?
+
+9. How many of the planned *reproductions* were you actually able to conduct?
+
+10. Did you analyze any descriptive statistics (e.g. research field, year of publication, journals, author demographics) of the set of original studies, and if so which ones?
+
+## *Reproductions*
+
+11. How many *reproductions* did you conduct for each original study, and how did you determine that number?
+
+12. If there are multiple teams (groups, labs) carrying out the *reproductions*, with what recruitment process and subject to what selection criteria were they chosen?
+
+13. What instructions were the *reproduction* teams given?
+
+14. If there were multiple groups *reproducing* the same original study, to what extent were their *reproductions* and protocols harmonized vs. independent of each other?
+
+15. Did you analyze any descriptive statistics (e.g. time of execution, demographics of *reproduction* teams) of the set of *reproductions* or of the *reproduction* teams, and if so which ones?
+
+16. Did you and/or the *reproduction* teams attempt to predict the *reproduction* outcome (overall or for individual *reproductions*)?
+
+17. What is the level of prior knowledge about the original studies, both of the *reproduction* teams and the authors of the overarching *reproducibility effort*?
+
+## Access to original studies
+
+18. Did your *reproductions* involve the original authors? If so, how?
+
+19. What published materials from the original studies did you use (e.g. publication, protocol, data, code)?
+
+20. Did you evaluate the reporting quality (e.g. completeness, data and code availability, documentation) of the published materials, and how?
+
+21. Did you evaluate potential biases in the original studies, and how?
+
+22. Did you have access to any unpublished materials from the original studies (e.g. lab notebooks, internal communications, supplier information, or information requested directly from the original authors)?
+
+23. Did you evaluate the quality (e.g. comprehensibility, documentation) of the unpublished materials, and if so, how?
+
+24. Was any unpublished material or information requested from the authors but not obtained, and if so, what exactly?
+
+## Preregistration strategy and deviations
+
+25. Did you preregister the protocols for the individual *reproductions*, and if so, when and what aspects of them?
+
+26. Did you preregister the protocol for the *reproducibility effort* (i.e. the overarching analysis of multiple individual *reproductions*, if applicable), and if so, when and what aspects of it?
+
+27. If you had preregistered the protocols of individual *reproductions* or the overarching analysis, were revisions allowed after the *reproductions* had started, and if so, until what point in their progression?
+
+28. If you had preregistered the protocols of individual *reproductions*, how did you deal with necessary deviations from the preregistrations, or revisions thereof, if any?
+
+29. Were researcher predictions about reproduction results collected and/or registered before reproductions were conducted (see item 16)? If so, how?
+
+## Sample size
+
+30. If you collected new data (see item 3), how was the sample size determined for the individual *reproductions*?
+
+## Adaptations from original studies
+
+31. If you aimed to follow the experimental and/or analysis methods of the original studies closely (see item 4), were adaptations necessary, and if so, how frequently and to what extent?
+
+32. If you deliberately incorporated variations from the original studies (see item 4), which aspects were varied and to what degree?
+
+33. Did your *reproductions* include additional bias control measures that were not done in the original studies?
+
+## Quality control
+
+34. Were *reproduction* teams blinded to the original studies and their results, and if so, how?
+
+35. What bias control measures, if any, were used in the *reproductions*?
+
+36. Were the *reproductions* reviewed, by whom, and at what stage? (e.g. the protocol, execution, or results)
+
+37. Is there a specific reporting guideline for the type(s) of original study you *reproduce* (e.g. CONSORT, STROBE), and was it used to report on the results of the individual *reproductions*?
+
+## Aggregation / analysis
+
+38. Were any *reproductions* excluded from the aggregation/analysis, and for what reasons?
+
+39. How did you evaluate *reproducibility* of the original studies? Describe the specific criteria and/or measure(s) used.
+
+40. What analysis methods and software did you use to evaluate *reproducibility*?
+
+41. Besides *reproducibility* measures (see item 39), did you analyze the results of your *reproductions* in other ways, and if so, how? Provide a full description of the (statistical) analysis.
+
+42. Did you conduct sensitivity analyses for the results of your *reproducibility effort*, and if so, which ones?
+
+## Data availability
+
+43. Are the materials (e.g. data and code) for your *reproductions* openly available? If so, where? If not, why not?
+
+## Discussion
+
+44. What are the conclusions of your *reproducibility effort*?
+
+45. Are these conclusions intended to be representative of a broader body of literature? If so, which one? Discuss constraints on generality due to the representativeness of the selected studies.
+
+46. What are the limitations of your *reproducibility effort* resulting from intrinsic features of the original studies? (e.g. temporal context, limited materials)
+
+47. What are the limitations of your *reproducibility effort* resulting from limitations of the *reproductions*? (e.g. availability of expertise, infrastructure, unplanned deviations from original studies and/or preregistration)
+
+48. Did you identify key factors that influenced the *reproducibility* outcome? Distinguish factors at the level of:
+
+    a) the original studies, and
+
+    b) the *reproductions*.
+
+## Authorship / contributions
+
+49. How were authorship contributions defined and attributed?
+
+50. How was the *reproducibility effort* funded?
+
+51. Did you obtain approval from an ethics committee? If so, for the whole *reproducibility effort* and/or for each *reproduction* individually?
+
+52. Are there any potential conflicts of interest?
