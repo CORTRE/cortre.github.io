@@ -1,4 +1,8 @@
 project:
+  render: 
+     - index.qmd
+     - team/index.qmd
+     - repro_efforts/index.qmd
   type: website   
   output-dir: docs
 
