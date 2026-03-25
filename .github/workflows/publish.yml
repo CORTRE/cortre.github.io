@@ -21,7 +21,7 @@ jobs:
           
       - name: Install dependencies
         run: |
-          install.packages(c("dyplr", "here", "DT")) # Add your specific packages here
+          install.packages(c("dplyr", "here", "DT")) # Add your specific packages here
         shell: Rscript
 
       - name: Set up Quarto
