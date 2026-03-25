@@ -6,7 +6,7 @@ format: html
 ### Non-exhaustive list used in developement of CORTRE reporting guidelines
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
-library(tidyverse)
+library(dplyr)
 library(here)
 library(DT)
 
