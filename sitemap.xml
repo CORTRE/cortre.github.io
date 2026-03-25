@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://CORTRE.github.io/cortre.github.io/repro_efforts/index.html</loc>
+    <lastmod>2026-03-25T13:58:39.127Z</lastmod>
+  </url>
+  <url>
     <loc>https://CORTRE.github.io/cortre.github.io/index.html</loc>
-    <lastmod>2026-03-23T14:24:05.249Z</lastmod>
+    <lastmod>2026-03-25T13:58:39.126Z</lastmod>
   </url>
   <url>
     <loc>https://CORTRE.github.io/cortre.github.io/team/index.html</loc>
-    <lastmod>2026-03-23T14:24:05.249Z</lastmod>
+    <lastmod>2026-03-25T13:58:39.127Z</lastmod>
   </url>
 </urlset>
