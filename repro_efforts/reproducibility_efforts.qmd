@@ -1,0 +1,56 @@
+---
+title: "Reproducibility Efforts"
+format: html
+---
+
+### Non-exhaustive list used in developement of CORTRE reporting guidelines
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(here)
+library(DT)
+
+rps <- read.csv(here("repro_efforts/Reproducibility_Efforts.csv"))
+
+
+# Convert title into hyperlinks using Url 
+rps <- rps %>%
+  mutate(Title = ifelse(
+      !is.na(Url) & Url != "",
+      paste0('<a href="', Url, '" target="_blank">', `Title`, '</a>'), 
+      `Title`
+    )
+  )
+
+file_url_idx <- which(colnames(rps) == "Title")
+col_defs <- list(
+  list(targets = list(file_url_idx), visible = FALSE)
+)
+
+# Create interactive table with DT
+datatable(
+  rps %>% 
+    select(-Url) %>% 
+    rename(Authors = Author, Year = Publication.Year),,
+  filter = "top",
+  options = list(
+    pageLength = 200,
+    scrollX = TRUE,
+    dom = 'frtip',
+    columnDefs = col_defs
+  ),
+  rownames = FALSE,
+  escape = FALSE,
+  class = 'display nowrap compact',
+) %>%
+  formatStyle(
+    columns = 1:ncol(rps),
+    fontSize = '80%'
+  ) %>%
+  formatStyle(
+    columns = which(colnames(rps) == "Author"),
+    textAlign = 'left'
+  )
+```
+
+
