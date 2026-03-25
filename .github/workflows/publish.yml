@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           install.packages(c("dplyr", "here", "DT")) # Add your specific packages here
-        shell: Rscript
+        shell: Rscript {0}
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
