@@ -42,4 +42,4 @@ format:
     callout-icon: false 
     code-overflow: wrap   
 
-freeze: false
+freeze: auto

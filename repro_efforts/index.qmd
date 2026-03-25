@@ -1,6 +1,6 @@
 ---
 title: "Reproducibility Efforts"
-format: html
+format: html 
 ---
 
 ### Non-exhaustive list used in developement of CORTRE reporting guidelines
