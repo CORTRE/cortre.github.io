@@ -1,10 +1,111 @@
 [
   {
-    "objectID": "repro_efforts/index.html",
-    "href": "repro_efforts/index.html",
-    "title": "Reproducibility Efforts",
+    "objectID": "item-list/index.html",
+    "href": "item-list/index.html",
+    "title": "CORTRE initial item list",
     "section": "",
-    "text": "Non-exhaustive list used in developement of CORTRE reporting guidelines"
+    "text": "ImportantFirst version — Delphi consensus\n\n\n\nThis page presents version 1 of the initial candidate item list for the CORTRE reporting guideline. It is intended as the starting point for a Delphi exercise: we seek consensus among stakeholders on which items to retain, merge, split, or drop, and how they should be worded. This is not a final guideline; content and numbering may change."
+  },
+  {
+    "objectID": "item-list/index.html#terminology",
+    "href": "item-list/index.html#terminology",
+    "title": "CORTRE initial item list",
+    "section": "Terminology",
+    "text": "Terminology\nReproducibility effort. With reproducibility effort we refer to a project that investigates an aspect of reproducibility. In the literature, different aspects of reproducibility are referred to with different terms, such as replicability, robustness, or generalisability. This reporting guideline can be applied to efforts investigating any one of those aspects of reproducibility. A reproducibility effort typically consists of multiple individual reproducibility studies. In the following, we use the term reproduction to refer to any kind of such individual reproducibility study. However, this does not imply that this terminology should be adopted for reporting your reproducibility effort.\nOriginal study. We use the term original study broadly to refer to that which is being reproduced, e.g. original publications, experiments, studies, results, claims, hypotheses, or outcomes. If the difference between these latter terms is relevant for your reproducibility effort, indicate this accordingly in each reporting item."
+  },
+  {
+    "objectID": "item-list/index.html#purpose-and-type-of-the-effort",
+    "href": "item-list/index.html#purpose-and-type-of-the-effort",
+    "title": "CORTRE initial item list",
+    "section": "Purpose and type of the effort",
+    "text": "Purpose and type of the effort\n\nWhat was the purpose of your reproducibility effort?\nWhat is the general design / architecture of your reproducibility effort? If applicable, include a flowchart.\nDid you reanalyze existing data from original studies or did your reproductions collect their own data?\nDid you aim to follow the experimental and/or analysis methods of the original studies as closely as possible, or were variations deliberately incorporated?\nDid you use a conceptual or terminological framework for terms such as “reproduction” or “replication”? If so, indicate which framework you use, and how you situate your reproducibility effort within this framework.\nIn what way did you label your study as a reproducibility effort in the title of your publication?"
+  },
+  {
+    "objectID": "item-list/index.html#selection-of-original-studies",
+    "href": "item-list/index.html#selection-of-original-studies",
+    "title": "CORTRE initial item list",
+    "section": "Selection of original studies",
+    "text": "Selection of original studies\n\nHow did you select which original study or studies to reproduce? This includes how you selected:\n\none or multiple original publications,\none or multiple experiments, studies, hypotheses, outcomes, or results within the original publication(s) (if applicable)\n\nHow many original studies did you plan or attempt to reproduce, and how was that number determined?\nHow many of the planned reproductions were you actually able to conduct?\nDid you analyze any descriptive statistics (e.g. research field, year of publication, journals, author demographics) of the set of original studies, and if so which ones?"
+  },
+  {
+    "objectID": "item-list/index.html#reproductions",
+    "href": "item-list/index.html#reproductions",
+    "title": "CORTRE initial item list",
+    "section": "Reproductions",
+    "text": "Reproductions\n\nHow many reproductions did you conduct for each original study, and how did you determine that number?\nIf there are multiple teams (groups, labs) carrying out the reproductions, with what recruitment process and subject to what selection criteria were they chosen?\nWhat instructions were the reproduction teams given?\nIf there were multiple groups reproducing the same original study, to what extent were their reproductions and protocols harmonized vs. independent of each other?\nDid you analyze any descriptive statistics (e.g. time of execution, demographics of reproduction teams) of the set of reproductions or of the reproduction teams, and if so which ones?\nDid you and/or the reproduction teams attempt to predict the reproduction outcome (overall or for individual reproductions)?\nWhat is the level of prior knowledge about the original studies, both of the reproduction teams and the authors of the overarching reproducibility effort?"
+  },
+  {
+    "objectID": "item-list/index.html#access-to-original-studies",
+    "href": "item-list/index.html#access-to-original-studies",
+    "title": "CORTRE initial item list",
+    "section": "Access to original studies",
+    "text": "Access to original studies\n\nDid your reproductions involve the original authors? If so, how?\nWhat published materials from the original studies did you use (e.g. publication, protocol, data, code)?\nDid you evaluate the reporting quality (e.g. completeness, data and code availability, documentation) of the published materials, and how?\nDid you evaluate potential biases in the original studies, and how?\nDid you have access to any unpublished materials from the original studies (e.g. lab notebooks, internal communications, supplier information, or information requested directly from the original authors)?\nDid you evaluate the quality (e.g. comprehensibility, documentation) of the unpublished materials, and if so, how?\nWas any unpublished material or information requested from the authors but not obtained, and if so, what exactly?"
+  },
+  {
+    "objectID": "item-list/index.html#preregistration-strategy-and-deviations",
+    "href": "item-list/index.html#preregistration-strategy-and-deviations",
+    "title": "CORTRE initial item list",
+    "section": "Preregistration strategy and deviations",
+    "text": "Preregistration strategy and deviations\n\nDid you preregister the protocols for the individual reproductions, and if so, when and what aspects of them?\nDid you preregister the protocol for the reproducibility effort (i.e. the overarching analysis of multiple individual reproductions, if applicable), and if so, when and what aspects of it?\nIf you had preregistered the protocols of individual reproductions or the overarching analysis, were revisions allowed after the reproductions had started, and if so, until what point in their progression?\nIf you had preregistered the protocols of individual reproductions, how did you deal with necessary deviations from the preregistrations, or revisions thereof, if any?\nWere researcher predictions about reproduction results collected and/or registered before reproductions were conducted (see item 16)? If so, how?"
+  },
+  {
+    "objectID": "item-list/index.html#sample-size",
+    "href": "item-list/index.html#sample-size",
+    "title": "CORTRE initial item list",
+    "section": "Sample size",
+    "text": "Sample size\n\nIf you collected new data (see item 3), how was the sample size determined for the individual reproductions?"
+  },
+  {
+    "objectID": "item-list/index.html#adaptations-from-original-studies",
+    "href": "item-list/index.html#adaptations-from-original-studies",
+    "title": "CORTRE initial item list",
+    "section": "Adaptations from original studies",
+    "text": "Adaptations from original studies\n\nIf you aimed to follow the experimental and/or analysis methods of the original studies closely (see item 4), were adaptations necessary, and if so, how frequently and to what extent?\nIf you deliberately incorporated variations from the original studies (see item 4), which aspects were varied and to what degree?\nDid your reproductions include additional bias control measures that were not done in the original studies?"
+  },
+  {
+    "objectID": "item-list/index.html#quality-control",
+    "href": "item-list/index.html#quality-control",
+    "title": "CORTRE initial item list",
+    "section": "Quality control",
+    "text": "Quality control\n\nWere reproduction teams blinded to the original studies and their results, and if so, how?\nWhat bias control measures, if any, were used in the reproductions?\nWere the reproductions reviewed, by whom, and at what stage? (e.g. the protocol, execution, or results)\nIs there a specific reporting guideline for the type(s) of original study you reproduce (e.g. CONSORT, STROBE), and was it used to report on the results of the individual reproductions?"
+  },
+  {
+    "objectID": "item-list/index.html#aggregation-analysis",
+    "href": "item-list/index.html#aggregation-analysis",
+    "title": "CORTRE initial item list",
+    "section": "Aggregation / analysis",
+    "text": "Aggregation / analysis\n\nWere any reproductions excluded from the aggregation/analysis, and for what reasons?\nHow did you evaluate reproducibility of the original studies? Describe the specific criteria and/or measure(s) used.\nWhat analysis methods and software did you use to evaluate reproducibility?\nBesides reproducibility measures (see item 39), did you analyze the results of your reproductions in other ways, and if so, how? Provide a full description of the (statistical) analysis.\nDid you conduct sensitivity analyses for the results of your reproducibility effort, and if so, which ones?"
+  },
+  {
+    "objectID": "item-list/index.html#data-availability",
+    "href": "item-list/index.html#data-availability",
+    "title": "CORTRE initial item list",
+    "section": "Data availability",
+    "text": "Data availability\n\nAre the materials (e.g. data and code) for your reproductions openly available? If so, where? If not, why not?"
+  },
+  {
+    "objectID": "item-list/index.html#discussion",
+    "href": "item-list/index.html#discussion",
+    "title": "CORTRE initial item list",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat are the conclusions of your reproducibility effort?\nAre these conclusions intended to be representative of a broader body of literature? If so, which one? Discuss constraints on generality due to the representativeness of the selected studies.\nWhat are the limitations of your reproducibility effort resulting from intrinsic features of the original studies? (e.g. temporal context, limited materials)\nWhat are the limitations of your reproducibility effort resulting from limitations of the reproductions? (e.g. availability of expertise, infrastructure, unplanned deviations from original studies and/or preregistration)\nDid you identify key factors that influenced the reproducibility outcome? Distinguish factors at the level of:\n\nthe original studies, and\nthe reproductions."
+  },
+  {
+    "objectID": "item-list/index.html#authorship-contributions",
+    "href": "item-list/index.html#authorship-contributions",
+    "title": "CORTRE initial item list",
+    "section": "Authorship / contributions",
+    "text": "Authorship / contributions\n\nHow were authorship contributions defined and attributed?\nHow was the reproducibility effort funded?\nDid you obtain approval from an ethics committee? If so, for the whole reproducibility effort and/or for each reproduction individually?\nAre there any potential conflicts of interest?"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Steering Committee\nThe CORTRE steering committee is composed of the following members:\n\nSamuel Gordon – Jagiellonian University College of Medicine, Krakow, Poland\nRachel Heyard – University of Zurich, Zurich, Switzerland (Project co-lead)\nFabio Molo – University of Zurich, Zurich, Switzerland (Project co-lead)\nMerle-Marie Pittelkow – Charite, Berlin, Germany\nPriya Silverstein – University of Coimbra, Coimbra, Portugal\n\nThe steering committee’s responsibilities include taking project administrative decisions, defining timelines and set deadlines, distribute tasks to working groups, coordinate communication between working groups and serve as a contact point for external inquiries.\n\n\nCORTRE working group members\nIn addition to the steering committee, the following researchers are actively contributing to the development of the CORTRE reporting guideline:\n\nOlavo Amaral – Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil\n\nFlorian Neubauer – RWI – Leibniz-Institut für Wirtschaftsforschung, Essen, Germany\n\nInge Stegeman – University Medical Center Utrecht, Utrecht, The Netherlands\n\nMateusz Wasylewski – Jagiellonian University College of Medicine, Krakow, Poland\n\nSamuel Yelnosky – Charite, Berlin, Germany\n\n\n\nThe CORTRE Team\n\n\n\nThe CORTRE team at the Responsible Research in Action Unconference in Berlin in September 2025.",
+    "crumbs": [
+      "Meet the team"
+    ]
   },
   {
     "objectID": "index.html",
@@ -27,13 +128,10 @@
     ]
   },
   {
-    "objectID": "team/index.html",
-    "href": "team/index.html",
-    "title": "Meet the team",
+    "objectID": "repro_efforts/index.html",
+    "href": "repro_efforts/index.html",
+    "title": "Reproducibility Efforts",
     "section": "",
-    "text": "Steering Committee\nThe CORTRE steering committee is composed of the following members:\n\nSamuel Gordon – Jagiellonian University College of Medicine, Krakow, Poland\nRachel Heyard – University of Zurich, Zurich, Switzerland (Project co-lead)\nFabio Molo – University of Zurich, Zurich, Switzerland (Project co-lead)\nMerle-Marie Pittelkow – Charite, Berlin, Germany\nPriya Silverstein – University of Coimbra, Coimbra, Portugal\n\nThe steering committee’s responsibilities include taking project administrative decisions, defining timelines and set deadlines, distribute tasks to working groups, coordinate communication between working groups and serve as a contact point for external inquiries.\n\n\nCORTRE working group members\nIn addition to the steering committee, the following researchers are actively contributing to the development of the CORTRE reporting guideline:\n\nOlavo Amaral – Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil\n\nFlorian Neubauer – RWI – Leibniz-Institut für Wirtschaftsforschung, Essen, Germany\n\nInge Stegeman – University Medical Center Utrecht, Utrecht, The Netherlands\n\nMateusz Wasylewski – Jagiellonian University College of Medicine, Krakow, Poland\n\nSamuel Yelnosky – Charite, Berlin, Germany\n\n\n\nThe CORTRE Team\n\n\n\nThe CORTRE team at the Responsible Research in Action Unconference in Berlin in September 2025.",
-    "crumbs": [
-      "Meet the team"
-    ]
+    "text": "Non-exhaustive list used in developement of CORTRE reporting guidelines"
   }
 ]
