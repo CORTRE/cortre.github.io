@@ -20,4 +20,6 @@ To address this gap, the CORTRE team convened at the Responsible Research in Act
 
 **Contact:** Rachel Heyard on behalf of the CORTRE steering committee, Center for Reproducible Science and Research Synthesis, University of Zurich, Switzerland. Email: <rachel.heyard@uzh.ch>. 
 
+Note that our intent to develop a reporting guideline was [registered on the website of the EQUATOR Network](https://www.equator-network.org/library/reporting-guidelines-under-development/reporting-guidelines-under-development-for-other-study-designs/#CORTRE){.external target="_blank"}.
+
  
