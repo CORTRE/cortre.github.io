@@ -3,6 +3,7 @@ project:
      - index.qmd
      - team/index.qmd
      - repro_efforts/index.qmd
+     - item-list/index.qmd
   type: website   
   output-dir: docs
 

@@ -10,3 +10,5 @@ README.html
 
 .Rproj.user
 .Rhistory
+**/*.quarto_ipynb
+_freeze
