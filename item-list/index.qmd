@@ -8,14 +8,14 @@ date-modified: last-modified
 ---
 
 ::: {.callout-important}
-## First version — Delphi consensus
+## First version — before Delphi consensus
 
 This page presents **version 1** of the **initial candidate item list** for the CORTRE reporting guideline. It is intended as the starting point for a **Delphi exercise**: we seek **consensus** among stakeholders on which items to retain, merge, split, or drop, and how they should be worded. **This is not a final guideline**; content and numbering may change.
 :::
 
 ## Terminology
 
-**Reproducibility effort.** With *reproducibility effort* we refer to a project that investigates an aspect of reproducibility. In the literature, different aspects of reproducibility are referred to with different terms, such as *replicability*, *robustness*, or *generalisability*. This reporting guideline can be applied to efforts investigating any one of those aspects of reproducibility. A reproducibility effort typically consists of multiple individual reproducibility studies. In the following, we use the term *reproduction* to refer to any kind of such individual reproducibility study. However, this does not imply that this terminology should be adopted for reporting your *reproducibility effort*.
+**Reproducibility effort.** With *reproducibility effort* we refer to a project that investigates an aspect of reproducibility. In the literature, different aspects of reproducibility are referred to with different terms, such as *replicability*, *robustness*, or *generalisability*. This reporting guideline can be applied to efforts investigating any one of those aspects of reproducibility. A reproducibility effort consists of at least one, but typically multiple individual reproducibility studies. In the following, we use the term *reproduction* to refer to any kind of such individual reproducibility study. However, this does not imply that this terminology should be adopted for reporting your *reproducibility effort*.
 
 **Original study.** We use the term *original study* broadly to refer to that which is being reproduced, e.g. *original publications, experiments, studies, results, claims, hypotheses,* or *outcomes*. If the difference between these latter terms is relevant for your *reproducibility effort*, indicate this accordingly in each reporting item.
 

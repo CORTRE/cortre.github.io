@@ -3,7 +3,14 @@ title: "Reproducibility Efforts"
 format: html 
 ---
 
-### Non-exhaustive list used in developement of CORTRE reporting guidelines
+### Sanity check
+```{=html}
+<embed src="toadd" width="700px" height="500px" />
+```
+
+
+
+### Non-exhaustive list used in development of CORTRE reporting guidelines
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
 library(dplyr)
