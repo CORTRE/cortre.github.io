@@ -5,9 +5,10 @@ format: html
 
 ### Sanity check
 ```{=html}
-<embed src="toadd" width="700px" height="500px" />
+<embed src="sanity.pdf" width="700px" height="500px" />
 ```
 
+-----
 
 
 ### Non-exhaustive list used in development of CORTRE reporting guidelines
