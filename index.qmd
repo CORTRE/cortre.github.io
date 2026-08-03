@@ -9,7 +9,7 @@ pagetitle: Welcome
 
 ::: {.callout-tip}
 ## Aim
-To develop a consensus-based reporting guideline for reproduciblity efforts -- projects that systematically re-examine previously published findings or previously tested hypotheses.
+To develop a consensus-based reporting guideline for reproduciblity efforts -- projects that systematically re-examine previously published findings to investigate an aspect of their reproducibility.
 :::
 
 Reproducibility efforts investigate the reproducibility, replicability, robustness, generalisability, or related concepts of previously published literature. Examples of such efforts include large replication projects in psychology ([RPP](https://osf.io/ezcuj/){.external target="_blank"}), cancer biology ([RPCB](https://www.cos.io/rpcb){.external target="_blank"}), experimental economics ([RPEE](https://doi.org/10.1126/science.aaf0918){.external target="_blank"}), as well as investigations into the robustness and/or computational reproducibility of results published in specific journals (e.g., [Institute for Replication](https://i4replication.org/){.external target="_blank"}). Some reproducibility efforts have reported alarming results, and their papers are frequently cited in calls for science policy reforms and interventions, such as mandates for data and code sharing or preregistration. Reproducibility efforts can thus have an important influence on science policy, its trajectory, and public trust in research.
